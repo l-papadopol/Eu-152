@@ -56,6 +56,7 @@ I strongly suggest you to read the Nuclear Physics Lab "NPL" blog about this: [A
 
 ## Downloads
 - Stable and also backward-compatible build for all kind of systems (Java 8):  
+from here, on GitHub or from my Google Drive, link below.
 [Download Link Eu-152](https://drive.google.com/file/d/1mcc90R8HlZffilprH9flhV1MmWTFNG62/view?usp=sharing) 
 
 - OpenJDK for WindowsXP legacy Java installer:
