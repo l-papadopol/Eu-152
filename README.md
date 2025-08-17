@@ -1,5 +1,7 @@
-![](images/logo.png) 
-# Eu-152 — Cross-platform Gamma Spectroscopy Desktop App
+<h1>
+  <img src="images/logo.png" alt="Eu-152 logo" width="48">
+  Eu-152 — Cross-platform Gamma Spectroscopy Desktop App
+</h1>
 Eu-152 is a no-frills desktop application for gamma spectroscopy. One consistent UI and one analysis pipeline from pulses to a calibrated spectrum. No Python. No web UI. Just a standard executable JAR you can double-click and use.
 
 - Runs on Windows, Linux, and macOS
