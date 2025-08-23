@@ -7,7 +7,10 @@ Eu-152 is a no-frills desktop application for gamma spectroscopy. One consistent
 
 - Runs on Windows, Linux, and macOS  
 - Works on Raspberry Pi  
-- Backward-compatible build for Windows XP SP3 (Java 8)  
+- Backward-compatible build for Windows XP SP3 (Java 8)
+  
+![Java](https://img.shields.io/badge/Java-8+-blue)
+![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey)
 
 ---
 
