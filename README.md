@@ -22,7 +22,6 @@ No Python. No web UI. Just a standard executable JAR you can double-click and us
 - [Supported inputs](#supported-inputs)
 - [Why Eu-152](#why-eu-152)
 - [Downloads](#downloads)
-- [Requirements](#minimum-requirements)
 - [How to run](#how-to-run)
 - [Quick start: USB audio](#quick-start-usb-audio)
 - [Features in detail](#features-in-detail)
@@ -80,16 +79,6 @@ It is written entirely in Java: if your system runs Java, it runs Eu-152.
 
 ---
 
-## Minimum requirements
-
-**Modern and Legacy systems:**
-- 32 or 64-bit Java 8 on Windows, macOS, or Linux.
-
-**Raspberry Pi:**
-- Works with OpenJDK from 1.8.
-
----
-
 ## How to run
 
 **On Linux and Raspberry Pi:**
@@ -112,11 +101,12 @@ java -jar Eu152.jar
 
 1. Pick device, sample rate, and channel (L/Mono or R)  
 2. Set input level as high as possible without clipping  
-3. Set LLD around 4–6% of full scale to suppress baseline noise  
-4. Choose smoothing taps close to pulse width shown in preview  
-5. If activity piles up near channel 0, enable band-pass filter and raise LLD  
-6. Use Height for clean pulses; Area is more stable with noisy shapes  
-7. Use the two oscilloscopes in the settings panel to tune things live
+3. Set LLD around 4–6% of full scale to suppress baseline noise
+4. The other parameters are usually good as per default. In case them are not:  
+  a. Choose smoothing taps close to pulse width shown in preview  
+  b. If activity piles up near channel 0, enable band-pass filter and raise LLD  
+  c. Use Height for clean pulses; Area is more stable with noisy shapes  
+  d. Use the two oscilloscopes in the settings panel to tune things live
 
 ---
 
