@@ -85,6 +85,8 @@ It is written entirely in Java: if your system runs Java, it runs Eu-152.
 ```bash
 java -jar Eu152.jar
 ```
+**On Android:**
+- Download Eu152.apk on your mobile device and install it.
 
 **On Windows and macOS:**
 - Double-click `Eu152.jar`
