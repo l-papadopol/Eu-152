@@ -213,7 +213,7 @@ It’s a **native Java port**, not a web wrapper, and supports both offline use 
 - Fully offline operation available for Spectrum and Geiger modes  
 
 <!-- Optional screenshot example -->
-<!-- ![](images/Eu152_Android_Map.png)  
+![](images/cubino_kit.jpg)  
 *Mapping mode example on Android version* -->
 
 ---
