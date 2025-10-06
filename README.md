@@ -25,6 +25,7 @@ No Python. No web UI. Just a standard executable JAR you can double-click and us
 - [How to run](#how-to-run)
 - [Quick start: USB audio](#quick-start-usb-audio)
 - [Features in detail](#features-in-detail)
+- [Android app](#android-app)
 - [Current status and roadmap](#current-status-and-roadmap)
 - [Screenshots](#screenshots)
 - [Contact and feedback](#contact-and-feedback)
@@ -180,6 +181,42 @@ java -jar Eu152.jar
 - Use the main Save/Load buttons in the app
 
 ---
+## Android app
+
+The **Android version** of Eu-152 (`Eu152.apk`) brings nearly all desktop features — and even more — directly to your mobile device.  
+It’s a **native Java port**, not a web wrapper, and supports both offline use and live data acquisition from USB audio devices.
+
+### Main features
+
+- Full **spectrum acquisition** and **ROI**
+- Compatible with **USB Audio Class (UAC)** devices e.g., Gamma Spectacular, Cubino, Theremino, etc.  
+- Built-in **Geiger mode** for live CPS count display with optional **click sound** enable/disable  
+- Integrated **mapping mode**:
+  - Shows your current position on a map  
+  - Draws a **colored trail** with a gradient according to radiation intensity  
+  - Ideal for field surveys and outdoor measurements  
+- Local saving of spectra and configurations
+
+### Usage
+
+1. Download and install `Eu152.apk` on your Android device.  
+2. Grant **USB permission** if prompted when connecting a detector.  
+3. Select **mode**:
+   - `Spectrum` → standard gamma spectroscopy workflow  
+   - `Geiger` → real-time counting with sound feedback  
+   - `Map` → GPS-based radiation mapping  
+
+### Notes
+
+- The Android build works best on devices with **Android 8.0+**  
+- Uses OpenStreetMap tiles in mapping mode (requires temporary data connection)  
+- Fully offline operation available for Spectrum and Geiger modes  
+
+<!-- Optional screenshot example -->
+<!-- ![](images/Eu152_Android_Map.png)  
+*Mapping mode example on Android version* -->
+
+---
 
 ## Current status and roadmap
 
@@ -231,4 +268,3 @@ Mail to: [l.i.papadopol@gmail.com](mailto:l.i.papadopol@gmail.com)
 
 At the moment this is a closed source project cause will become - probably - my thesis project.  
 I'll set it open source when the thesis will be published.
-
