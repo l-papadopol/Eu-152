@@ -214,6 +214,9 @@ It’s a **native Java port**, not a web wrapper, and supports both offline use 
 
 <!-- Optional screenshot example -->
 ![](images/cubino_kit.jpg)  
+![](images/setup.jpg)  
+![](images/mapping.jpg)  
+![](images/ROI.jpg)  
 *Mapping mode example on Android version* -->
 
 ---
