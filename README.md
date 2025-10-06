@@ -214,8 +214,11 @@ It’s a **native Java port**, not a web wrapper, and supports both offline use 
 
 <p align="center">
   <img src="images/cubino_kit.jpg" width="50%">
-  <img src="images/setup.jpg" width="50%">
-  <img src="images/mapping.jpg" width="50%">
+  <br>
+  <img src="images/setup.jpg" width="30%">
+  <br>
+  <img src="images/mapping.jpg" width="30%">
+  <br>
   <img src="images/ROI.jpg" width="50%">
 </p>
 ---
@@ -242,13 +245,13 @@ It’s a **native Java port**, not a web wrapper, and supports both offline use 
 ---
 
 ## Screenshots
-
-![](images/Eu152_1.png)  
-![](images/Eu152_2.png)  
-![](images/Eu152_3.png)  
-![](images/Eu152_4.png)  
-![](images/Eu152_5.png)  
-
+<p align="center">
+<img src="images/Eu152_1.png" width="50%">
+<img src="images/Eu152_2.png" width="50%">
+<img src="images/Eu152_3.png" width="50%">
+<img src="images/Eu152_4.png" width="50%">
+<img src="images/Eu152_5.png" width="50%">
+</p>
 ---
 
 ## Contact and feedback
